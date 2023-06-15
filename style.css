@@ -1,1 +1,9 @@
 body {background-color: aqua;}
+
+header{background-color: darkseagreen;
+display: flex;
+justify-content: space-around;
+}
+.imagem {
+    width: 10%;
+}
